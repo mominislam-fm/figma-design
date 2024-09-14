@@ -1,0 +1,129 @@
+img.logo {
+    width: 100px;
+}
+
+.header-logo {
+    width: 100px;
+    margin-left: 130px;
+}
+
+.navigation {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 280px;
+    margin-top: -40px;
+}
+
+.nav-btn {
+    text-align: right;
+    margin-left: 900px;
+    margin-right: 130px;
+    margin-top: -25px;
+}
+a.nav-list {
+    text-decoration: none;
+    margin: 45px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #656161;
+}
+a.btn {
+    text-decoration: none;
+    background: #5669FF;
+    color: white;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 25px;
+    padding: 12px;
+    border-radius: 10px;
+}
+a.nav-list:hover {
+    color: #5669FF;
+}
+
+.hero-1 {
+    width: 42%;
+    text-align: center;
+}
+
+span {
+    font-family: Poppins;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 78px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #5669FF;
+}
+h1.hero-heading {
+    font-family: Poppins;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0.03em;
+    margin-top: 220px;
+}
+p.pera {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    margin-left: 115px;
+    color: #4A4545;
+}
+form.mail {margin-top: 40px;}
+
+input.email {
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+i.fa-solid.fa-arrow-right {
+    background: #5669FF;
+    width: 38px;
+    border-radius: 10px;
+    color: white;
+    padding: 7px;
+    position: relative;
+    right: 62px;
+}
+
+ 
+
+img.hero-img {
+    width: 400px;
+    text-align: right;
+    position: relative;
+    bottom: 456px;
+    right: 134px;
+}
+
+img.hero-img2 {
+    width: 365px;
+    position: relative;
+    bottom: 980px;
+    left: 8px;
+}
+
+.hero-img {}
+
+.hero-img {
+    text-align: right;
+}
+
+.hero-img2 {
+    text-align: right;
+}
+i.fa-solid.fa-hands-clapping {
+    color: #FFE4CC;
+}
